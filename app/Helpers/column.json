@@ -1,0 +1,240 @@
+[
+    {
+        "column_for": "networks",
+        "columns": [
+            {
+                "name": "Name",
+                "column": "name",
+                "toltip": " ",
+                "width": 200,
+                "seq": 1
+            }
+        ]
+    },
+    {
+        "column_for": "offers",
+        "columns": [
+            {
+                "name": "Name",
+                "column": "name",
+                "toltip": " ",
+                "width": 200,
+                "seq": 1
+            }
+        ]
+    },
+    {
+        "column_for": "flows",
+        "columns": [
+            {
+                "name": "Name",
+                "column": "name",
+                "toltip": " ",
+                "width": 200,
+                "seq": 1
+            }
+        ]
+    },
+    {
+        "column_for": "traffic_source",
+        "columns": [
+            {
+                "name": "Name",
+                "column": "name",
+                "toltip": " ",
+                "width": 200,
+                "seq": 1
+            }
+        ]
+    },
+    {
+        "column_for": "landers",
+        "columns": [
+            {
+                "name": "Name",
+                "column": "name",
+                "toltip": " ",
+                "width": 200,
+                "seq": 1
+            }
+        ]
+    },
+    {
+        "column_for": "campaigns",
+        "columns": [
+            {
+                "name": "Name",
+                "column": "name",
+                "toltip": " ",
+                "width": 200,
+                "seq": 1
+            },
+            {
+                "name": "Notes",
+                "column": "notes",
+                "toltip": " ",
+                "width": 200,
+                "seq": 2
+            }
+        ]
+    },
+    {
+        "column_for": "global",
+        "columns": [
+            {
+                "name": "Assigned Workspace",
+                "column": "workspace",
+                "toltip": "The Workspace assignment determines which campaign funnels a user can gain access to. This allows to isolate the funnels and make them unavailable for some Workers, where at the same time the Account Owner and Admin(s) can easily have insight into all data.",
+                "width": 200,
+                "seq": 50
+            },
+            {
+                "name": "Visits",
+                "column": "visits",
+                "toltip": "Visit is a specific user statistic recorded for an active Tellmobi campaign. When a user goes to a landing page, a visit is recorded. Note that when direct-linking is used and the user goes directly to an offer, such event is classified as a visit.",
+                "seq": 51,
+                "width": 60
+            },
+            {
+                "name": "Unique Visits",
+                "column": "unique_visits",
+                "toltip": "A visit is treated as unique when there is no cookie related to the person behind this visit. Currently, cookies live 48 hours. after that time, a secondary visit from the same person will be counted as unique.",
+                "seq": 52,
+                "width": 60
+            },
+            {
+                "name": "Clicks",
+                "column": "clicks",
+                "toltip": "Click is a specific user statistic recorded for an active Tellmobi campaign. When a user goes to an offer, a click is recorded. Note that when direct-linking is used and the user goes directly to an offer, such event is classified as a visit.",
+                "seq": 53,
+                "width": 60
+            },
+            {
+                "name": "Unique Clicks",
+                "column": "unique_clicks",
+                "toltip": "A click is treated as unique when there is no cookie related to the person behind this click. Currently, cookies live 48 hours. after that time, a secondary click from the same person will be counted as unique.",
+                "seq": 54,
+                "width": 60
+            },
+            {
+                "name": "Conversion",
+                "column": "conversion",
+                "toltip": "Conversion is a specific user statistic recorded for an active Tellmobi campaign. A conversion is added when a user buys an offer.",
+                "seq": 55,
+                "width": 60
+            },
+            {
+                "name": "Cost",
+                "column": "cost",
+                "toltip": "Money spent on each campaign.",
+                "seq": 56,
+                "width": 60
+            },
+            {
+                "name": "Profit",
+                "column": "profit",
+                "toltip": "Difference between amount earned and amount spent.",
+                "seq": 57,
+                "width": 60
+            },
+            {
+                "name": "Revenue",
+                "column": "revenue",
+                "toltip": "Total income of expenses.",
+                "seq": 58,
+                "width": 60
+            },
+            {
+                "name": "AP",
+                "column": "ap",
+                "toltip": "Average payout is an indicator of how much revenue you get for a single conversion. You can find it in the AP column in Tellmobi. it is calculated using the below formula:<br> Average payout ($) = Total revenue ($) / Number of conversions",
+                "seq": 59,
+                "width": 60
+            },
+            {
+                "name": "CPV",
+                "column": "cpv",
+                "toltip": "Cost per view is an indicator of how much you pay for a single advertisement view on publisher's site (typically for pop-up or pop-under types of ads). You can find it in the CPV column in Tellmobi.<br> Cost per view ($) = Total Cost ($) / Number of views",
+                "seq": 60,
+                "width": 60
+            },
+            {
+                "name": "CR",
+                "column": "cr",
+                "toltip": "Conversion rate (clicks) is one of the main indicators of your campaign performance and how profitable your offer is. It show how many users have converted after clicking on an offer on a landing page. You can find it in the CR column in Tellmobi.<br> Conversion rate (%) (clicks) = Number of conversions / Number of clicks * 100%",
+                "seq": 61,
+                "width": 60
+            },
+            {
+                "name": "CTR",
+                "column": "ctr",
+                "toltip": "Click-through rate is an indicator of how attractive your offer is to your audience. It shows how many users have clicked on the offer after viewing it on a landing page. You can find it in the CTR column in Tellmobi.<br> Click-through rate (%) = Number of clicks / Number of visits * 100%",
+                "seq": 62,
+                "width": 60
+            },
+            {
+                "name": "CV",
+                "column": "cv",
+                "toltip": "Conversion rate (visits) is one of the main indicators of your campaign performance and how profitable your offer is. It shows how many users have converted after clicking an ad on a publisher's page. You can find it in the CV column in Tellmobi.<br> Conversion rate (%) (visits) = Number of conversions / Number of visits * 100%",
+                "seq": 63,
+                "width": 60
+            },
+            {
+                "name": "eCpa",
+                "column": "ecpa",
+                "toltip": "Effective cost per action is an indicator of a cost for a single user action (like sign up to a newsletter, installation of an application, etc.) calculated retrospectively post-campaign. It shows the actual cost per action of traffic purchased.<br>If you have purchased traffic using the CPA cost model, the eCPA = CPA (for this cost model, second price auction bidding model is not used)<br> If you have purchased traffic using other (CPM, CPC, Revshare), the eCPA will be calculated like this; Effective cost per action or acquisition rate ($) - Total cost / Number of acquisitions (conversions)",
+                "seq": 64,
+                "width": 60
+            },
+            {
+                "name": "eCPC",
+                "column": "ecpc",
+                "toltip": "Effective cost per click is an indicator of a cost for a single clicks on the ad, calculated retrospectively post-campaign. It shows the actual cost per click of traffic purchased. The eCPC is calculated using the below formula:<br>Effective cost per click = Total cost / Number of clicks",
+                "seq": 65,
+                "width": 60
+            },
+            {
+                "name": "eCPM",
+                "column": "ecpm",
+                "toltip": "Effective cost per mille (thousand) is an indicator of a cost for buying a thousand ad impressions, calculated retrospectively post-campaign. It shows the actual cost per thousand impressions of traffic purchased. The eCPM is calculated using the below formula:<br>Effective cost per mille = Total cost / Number of impressions * 1000",
+                "seq": 66,
+                "width": 60
+            },
+            {
+                "name": "EPC",
+                "column": "epc",
+                "toltip": "Earning per click is an indicator of how much revenue you get for a single click on the ad. You can find it in the EPC column in Tellmobi. It is calculated using the below formula:<br> Earnings per click ($) = Total revenue ($) / Number of clicks",
+                "seq": 67,
+                "width": 60
+            },
+            {
+                "name": "EPV",
+                "column": "epv",
+                "toltip": "Earning per visit is an indicator of how much revenue you get for a single visit to your website. You can find it in the EPV column in Tellmobi. It is calculated using the below formula:<br> Earnings per visit ($) = Total revenue ($) / Number of visits",
+                "seq": 68,
+                "width": 60
+            },
+            {
+                "name": "ICTR",
+                "column": "ictr",
+                "toltip": "Impression click-through rate is an indicator of how attractive your ad is to your audience. It shows how many users have clicked on the ad after viewing it on a publisher's site. You can find this indicator in the iCTR column in Tellmobi. It is calculated using the below formula:<br> Impression click-through rate (%) = Number of visits / Number of impressions * 100%",
+                "seq": 69,
+                "width": 60
+            },
+            {
+                "name": "ROI",
+                "column": "roi",
+                "toltip": "Return of investment is a main indicator of the profitability of your campaign. It shows the percentage of the money you earned as a fraction of the money you have invested.<br>ROI = 0%: it means that you neither have lost or earned any money<br> ROI > 0%: it means that you have earned money. For example, if ROI = 150%, you have earned 50% more money that you have invested in running your campaigns.<br> If ROI < 0%: it means that you have spent more money than you have earned.",
+                "seq": 70,
+                "width": 60
+            },
+            {
+                "name": "RPM",
+                "column": "rpm",
+                "toltip": "Revenue per mille (thousand) is an indicator of how much you earn for thousand impressions. You can find it in the RPM column in Tellmobi. It is calculated using the below formula:<br>Revenue per mille ($) = Total revenue ($) / Number of impressions * 1000",
+                "seq": 71,
+                "width": 60
+            }
+        ]
+    }
+]

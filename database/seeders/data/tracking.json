@@ -1,0 +1,17 @@
+[
+    {
+        "name": "POSTBACK URL",
+        "code": "/postback",
+        "type": "link"
+    },
+    {
+        "name": "PIXEL",
+        "code": "/postback",
+        "type": "img"
+    },
+    {
+        "name": "PIXEL URL",
+        "code": "/postback",
+        "type": "link"
+    }
+]

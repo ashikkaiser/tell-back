@@ -1,0 +1,422 @@
+[
+    {
+        "code": "Etc/GMT+12",
+        "name": "(UTC-12:00) International Date Line West"
+    },
+    {
+        "code": "Etc/GMT+11",
+        "name": "(UTC-11:00) Coordinated Universal Time-11"
+    },
+    {
+        "code": "Pacific/Honolulu",
+        "name": "(UTC-10:00) Hawaii"
+    },
+    {
+        "code": "America/Anchorage",
+        "name": "(UTC-08:00) Alaska"
+    },
+    {
+        "code": "America/Santa_Isabel",
+        "name": "(UTC-07:00) Baja California"
+    },
+    {
+        "code": "America/Los_Angeles",
+        "name": "(UTC-07:00) Pacific Time (US & Canada)"
+    },
+    {
+        "code": "America/Phoenix",
+        "name": "(UTC-07:00) Arizona"
+    },
+    {
+        "code": "America/Chihuahua",
+        "name": "(UTC-06:00) Chihuahua, La Paz, Mazatlan"
+    },
+    {
+        "code": "America/Denver",
+        "name": "(UTC-06:00) Mountain Time (US & Canada)"
+    },
+    {
+        "code": "America/Guatemala",
+        "name": "(UTC-06:00) Central America"
+    },
+    {
+        "code": "America/Regina",
+        "name": "(UTC-06:00) Saskatchewan"
+    },
+    {
+        "code": "America/Chicago",
+        "name": "(UTC-05:00) Central Time (US & Canada)"
+    },
+    {
+        "code": "America/Mexico_City",
+        "name": "(UTC-05:00) Guadalajara, Mexico City, Monterrey"
+    },
+    {
+        "code": "America/Bogota",
+        "name": "(UTC-05:00) Bogota, Lima, Quito, Rio Branco"
+    },
+    {
+        "code": "America/Cancun",
+        "name": "(UTC-05:00) Chetumal"
+    },
+    {
+        "code": "America/New_York",
+        "name": "(UTC-04:00) Eastern Time (US & Canada)"
+    },
+    {
+        "code": "America/Indianapolis",
+        "name": "(UTC-04:00) Indiana (East)"
+    },
+    {
+        "code": "America/Caracas",
+        "name": "(UTC-04:00) Caracas"
+    },
+    {
+        "code": "America/Asuncion",
+        "name": "(UTC-04:00) Asuncion"
+    },
+    {
+        "code": "America/Cuiaba",
+        "name": "(UTC-04:00) Cuiaba"
+    },
+    {
+        "code": "America/La_Paz",
+        "name": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan"
+    },
+    {
+        "code": "America/Santiago",
+        "name": "(UTC-04:00) Santiago"
+    },
+    {
+        "code": "America/Halifax",
+        "name": "(UTC-03:00) Atlantic Time (Canada)"
+    },
+    {
+        "code": "America/Sao_Paulo",
+        "name": "(UTC-03:00) Brasilia"
+    },
+    {
+        "code": "America/Buenos_Aires",
+        "name": "(UTC-03:00) Buenos Aires"
+    },
+    {
+        "code": "America/Cayenne",
+        "name": "(UTC-03:00) Cayenne, Fortaleza"
+    },
+    {
+        "code": "America/Montevideo",
+        "name": "(UTC-03:00) Montevideo"
+    },
+    {
+        "code": "America/Bahia",
+        "name": "(UTC-03:00) Salvador"
+    },
+    {
+        "code": "America/St_Johns",
+        "name": "(UTC-02:30) Newfoundland"
+    },
+    {
+        "code": "America/Godthab",
+        "name": "(UTC-02:00) Greenland"
+    },
+    {
+        "code": "Etc/GMT+2",
+        "name": "(UTC-02:00) Coordinated Universal Time-02"
+    },
+    {
+        "code": "Atlantic/Cape_Verde",
+        "name": "(UTC-01:00) Cabo Verde Is."
+    },
+    {
+        "code": "Atlantic/Azores",
+        "name": "(UTC) Azores"
+    },
+    {
+        "code": "Etc/GMT",
+        "name": "(UTC) Coordinated Universal Time"
+    },
+    {
+        "code": "Atlantic/Reykjavik",
+        "name": "(UTC) Monrovia, Reykjavik"
+    },
+    {
+        "code": "Africa/Casablanca",
+        "name": "(UTC+01:00) Casablanca"
+    },
+    {
+        "code": "Europe/London",
+        "name": "(UTC+01:00) Dublin, Edinburgh, Lisbon, London"
+    },
+    {
+        "code": "Africa/Lagos",
+        "name": "(UTC+01:00) West Central Africa"
+    },
+    {
+        "code": "Europe/Berlin",
+        "name": "(UTC+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna"
+    },
+    {
+        "code": "Europe/Budapest",
+        "name": "(UTC+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague"
+    },
+    {
+        "code": "Europe/Paris",
+        "name": "(UTC+02:00) Brussels, Copenhagen, Madrid, Paris"
+    },
+    {
+        "code": "Europe/Warsaw",
+        "name": "(UTC+02:00) Sarajevo, Skopje, Warsaw, Zagreb"
+    },
+    {
+        "code": "Africa/Windhoek",
+        "name": "(UTC+02:00) Windhoek"
+    },
+    {
+        "code": "Africa/Cairo",
+        "name": "(UTC+02:00) Cairo"
+    },
+    {
+        "code": "Africa/Johannesburg",
+        "name": "(UTC+02:00) Harare, Pretoria"
+    },
+    {
+        "code": "Europe/Kaliningrad",
+        "name": "(UTC+02:00) Kaliningrad (RTZ 1)"
+    },
+    {
+        "code": "Africa/Tripoli",
+        "name": "(UTC+02:00) Tripoli"
+    },
+    {
+        "code": "Asia/Amman",
+        "name": "(UTC+03:00) Amman"
+    },
+    {
+        "code": "Europe/Bucharest",
+        "name": "(UTC+03:00) Athens, Bucharest"
+    },
+    {
+        "code": "Asia/Beirut",
+        "name": "(UTC+03:00) Beirut"
+    },
+    {
+        "code": "Asia/Damascus",
+        "name": "(UTC+03:00) Damascus"
+    },
+    {
+        "code": "Europe/Kiev",
+        "name": "(UTC+03:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius"
+    },
+    {
+        "code": "Europe/Istanbul",
+        "name": "(UTC+03:00) Istanbul"
+    },
+    {
+        "code": "Asia/Jerusalem",
+        "name": "(UTC+03:00) Jerusalem"
+    },
+    {
+        "code": "Asia/Baghdad",
+        "name": "(UTC+03:00) Baghdad"
+    },
+    {
+        "code": "Asia/Riyadh",
+        "name": "(UTC+03:00) Kuwait, Riyadh"
+    },
+    {
+        "code": "Europe/Minsk",
+        "name": "(UTC+03:00) Minsk"
+    },
+    {
+        "code": "Europe/Moscow",
+        "name": "(UTC+03:00) Moscow, St. Petersburg, Volgograd (RTZ 2)"
+    },
+    {
+        "code": "Africa/Nairobi",
+        "name": "(UTC+03:00) Nairobi"
+    },
+    {
+        "code": "Asia/Dubai",
+        "name": "(UTC+04:00) Abu Dhabi, Muscat"
+    },
+    {
+        "code": "Asia/Baku",
+        "name": "(UTC+04:00) Baku"
+    },
+    {
+        "code": "Europe/Samara",
+        "name": "(UTC+04:00) Izhevsk, Samara (RTZ 3)"
+    },
+    {
+        "code": "Indian/Mauritius",
+        "name": "(UTC+04:00) Port Louis"
+    },
+    {
+        "code": "Asia/Tbilisi",
+        "name": "(UTC+04:00) Tbilisi"
+    },
+    {
+        "code": "Asia/Yerevan",
+        "name": "(UTC+04:00) Yerevan"
+    },
+    {
+        "code": "Asia/Tehran",
+        "name": "(UTC+04:30) Tehran"
+    },
+    {
+        "code": "Asia/Kabul",
+        "name": "(UTC+04:30) Kabul"
+    },
+    {
+        "code": "Asia/Tashkent",
+        "name": "(UTC+05:00) Ashgabat, Tashkent"
+    },
+    {
+        "code": "Asia/Yekaterinburg",
+        "name": "(UTC+05:00) Ekaterinburg (RTZ 4)"
+    },
+    {
+        "code": "Asia/Karachi",
+        "name": "(UTC+05:00) Islamabad, Karachi"
+    },
+    {
+        "code": "Asia/Calcutta",
+        "name": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi"
+    },
+    {
+        "code": "Asia/Colombo",
+        "name": "(UTC+05:30) Sri Jayawardenepura"
+    },
+    {
+        "code": "Asia/Katmandu",
+        "name": "(UTC+05:45) Kathmandu"
+    },
+    {
+        "code": "Asia/Almaty",
+        "name": "(UTC+06:00) Astana"
+    },
+    {
+        "code": "Asia/Dhaka",
+        "name": "(UTC+06:00) Dhaka"
+    },
+    {
+        "code": "Asia/Rangoon",
+        "name": "(UTC+06:30) Yangon (Rangoon)"
+    },
+    {
+        "code": "Asia/Novosibirsk",
+        "name": "(UTC+07:00) Novosibirsk (RTZ 5)"
+    },
+    {
+        "code": "Asia/Bangkok",
+        "name": "(UTC+07:00) Bangkok, Hanoi, Jakarta"
+    },
+    {
+        "code": "Asia/Krasnoyarsk",
+        "name": "(UTC+07:00) Krasnoyarsk (RTZ 6)"
+    },
+    {
+        "code": "Asia/Shanghai",
+        "name": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi"
+    },
+    {
+        "code": "Asia/Irkutsk",
+        "name": "(UTC+08:00) Irkutsk (RTZ 7)"
+    },
+    {
+        "code": "Asia/Singapore",
+        "name": "(UTC+08:00) Kuala Lumpur, Singapore"
+    },
+    {
+        "code": "Australia/Perth",
+        "name": "(UTC+08:00) Perth"
+    },
+    {
+        "code": "Asia/Taipei",
+        "name": "(UTC+08:00) Taipei"
+    },
+    {
+        "code": "Asia/Ulaanbaatar",
+        "name": "(UTC+08:00) Ulaanbaatar"
+    },
+    {
+        "code": "Asia/Tokyo",
+        "name": "(UTC+09:00) Osaka, Sapporo, Tokyo"
+    },
+    {
+        "code": "Asia/Seoul",
+        "name": "(UTC+09:00) Seoul"
+    },
+    {
+        "code": "Asia/Yakutsk",
+        "name": "(UTC+09:00) Yakutsk (RTZ 8)"
+    },
+    {
+        "code": "Australia/Adelaide",
+        "name": "(UTC+09:30) Adelaide"
+    },
+    {
+        "code": "Australia/Darwin",
+        "name": "(UTC+09:30) Darwin"
+    },
+    {
+        "code": "Australia/Brisbane",
+        "name": "(UTC+10:00) Brisbane"
+    },
+    {
+        "code": "Australia/Sydney",
+        "name": "(UTC+10:00) Canberra, Melbourne, Sydney"
+    },
+    {
+        "code": "Pacific/Port_Moresby",
+        "name": "(UTC+10:00) Guam, Port Moresby"
+    },
+    {
+        "code": "Australia/Hobart",
+        "name": "(UTC+10:00) Hobart"
+    },
+    {
+        "code": "Asia/Vladivostok",
+        "name": "(UTC+10:00) Vladivostok, Magadan (RTZ 9)"
+    },
+    {
+        "code": "Asia/Magadan",
+        "name": "(UTC+11:00) Magadan"
+    },
+    {
+        "code": "Asia/Srednekolymsk",
+        "name": "(UTC+11:00) Chokurdakh (RTZ 10)"
+    },
+    {
+        "code": "Pacific/Guadalcanal",
+        "name": "(UTC+11:00) Solomon Is., New Caledonia"
+    },
+    {
+        "code": "Asia/Kamchatka",
+        "name": "(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky (RTZ 11)"
+    },
+    {
+        "code": "Pacific/Auckland",
+        "name": "(UTC+12:00) Auckland, Wellington"
+    },
+    {
+        "code": "Etc/GMT-12",
+        "name": "(UTC+12:00) Coordinated Universal Time+12"
+    },
+    {
+        "code": "Pacific/Fiji",
+        "name": "(UTC+12:00) Fiji"
+    },
+    {
+        "code": "Pacific/Tongatapu",
+        "name": "(UTC+13:00) Nuku'alofa"
+    },
+    {
+        "code": "Pacific/Apia",
+        "name": "(UTC+13:00) Samoa"
+    },
+    {
+        "code": "Pacific/Kiritimati",
+        "name": "(UTC+14:00) Kiritimati Island"
+    }
+]

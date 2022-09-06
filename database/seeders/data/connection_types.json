@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Broadband"
+    },
+    {
+        "name": "Cable"
+    },
+    {
+        "name": "Dial-up"
+    },
+    {
+        "name": "Mobile"
+    },
+    {
+        "name": "Satellite"
+    },
+    {
+        "name": "Unknown"
+    },
+    {
+        "name": "Wireless"
+    },
+    {
+        "name": "XDSL"
+    }
+]
